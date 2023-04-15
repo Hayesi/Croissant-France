@@ -3,7 +3,10 @@ body {
 }
 
 h1,
-p,
+p {
+  text-align: center;
+}
+
 .croissant-recipe-link {
   text-align: center;
 }
