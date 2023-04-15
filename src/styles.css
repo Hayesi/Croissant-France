@@ -3,7 +3,8 @@ body {
 }
 
 h1,
-p .croissant-recipe-link {
+p,
+.croissant-recipe-link {
   text-align: center;
 }
 
