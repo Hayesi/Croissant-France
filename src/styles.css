@@ -3,11 +3,8 @@ body {
 }
 
 h1,
-p {
-  text-align: center;
-}
-
-div a {
+p,
+div {
   text-align: center;
 }
 
